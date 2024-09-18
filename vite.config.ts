@@ -16,13 +16,13 @@ export default defineConfig({
         theme_color: "#000000",
         icons: [
           {
-            src: "/icons/bisu.png",
-            sizes: "192x192",
+            src: "/path/to/bisu.png",
+            sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "/icons/bisu.png",
-            sizes: "512x512",
+            src: "/path/to/bisu.png",
+            sizes: "192x192",
             type: "image/png",
           },
         ],
